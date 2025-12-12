@@ -3,7 +3,7 @@
   "image": "mcr.microsoft.com/devcontainers/universal:latest",
   "features": {
     "ghcr.io/davzucky/devcontainers-features-wolfi/python:1": {
-      "installRuff": true,
+      "installTools": true,
       "pythonVersion": "3.10"
     }
   },
